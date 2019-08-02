@@ -3,7 +3,7 @@
 
 This gif was made using QGIS and the Time Manager Plugin. To complement the gif, I plotted various statistics per year, showing a general increase in fire frequency, land-area impacts, and mega-fire size.
 
-<img src="./assets/acres_per_year.png" alt="Acres Burned per year" width="700" height="500">
+<img src="./assets/acres_per_year.png" alt="Acres Burned per year" width="600" height="500">
 
 ### Data
 The original data was ammended slightly with QGIS, and from Cal Fire (formerly available [here](https://frap.fire.ca.gov/data/frapgisdata-sw-fireperimeters_download) ). Hopefully it will return to this web location.
