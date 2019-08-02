@@ -6,7 +6,7 @@ This gif was made using QGIS and the Time Manager Plugin. To complement the gif,
 <img src="./assets/acres_per_year.png" alt="Acres Burned per year" width="700" height="500">
 
 ### Data
-The original data was ammended slightly with QGIS, and from Cal Fire (formerly available [here]). Hopefully it will return to this web location.
+The original data was ammended slightly with QGIS, and from Cal Fire (formerly available [here](https://frap.fire.ca.gov/data/frapgisdata-sw-fireperimeters_download) ). Hopefully it will return to this web location.
 
 The vector layers are available as a shapefile in the project repo.
 
