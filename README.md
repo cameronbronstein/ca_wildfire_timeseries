@@ -10,7 +10,7 @@ To complement the gifs, I plotted various statistics per year, showing a general
 <img src="./assets/acres_per_year.png" alt="Acres Burned per year" width="600" height="500">
 
 ### Data
-The original data was ammended slightly with QGIS, and from [Cal Fire](https://frap.fire.ca.gov/frap-projects/fire-perimeters/). Hopefully it will return to this web location.
+The original data was ammended slightly with QGIS, and from [Cal Fire](https://frap.fire.ca.gov/frap-projects/fire-perimeters/). 
 
 The vector layers are available as a shapefile in the project repo.
 
